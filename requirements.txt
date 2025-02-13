@@ -1,0 +1,5 @@
+streamlit==1.25.0           # Para la creación de la app web
+python-chess==1.999         # Para manipular y analizar partidas de ajedrez en formato PGN
+stockfish==3.16.0           # (Opcional) Para integrar análisis con el motor Stockfish
+matplotlib==3.7.2           # (Opcional) Para generar gráficos de evaluación de partidas
+plotly==5.17.0              # (Opcional) Gráficos interactivos para análisis visual
